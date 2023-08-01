@@ -1,0 +1,11 @@
+canvas {
+    background-color: rgb(143, 207, 216);
+}
+#score {
+    padding-left: 200px;
+    margin-bottom: 0px;
+}
+#tutorial {
+    margin-top: 0px;
+    padding-left: 100px;
+}
